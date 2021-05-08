@@ -1,6 +1,7 @@
-package guru.springframework.spring5jokesappv2;
+package guru.springframework.spring5jokesappv2.services;
 
 import guru.springframework.norris.chuck.ChuckNorrisQuotes;
+import guru.springframework.spring5jokesappv2.services.JokeService;
 import org.springframework.stereotype.Service;
 
 /**
